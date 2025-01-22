@@ -1,0 +1,2 @@
+UI.PharmacySystemAdmin.PharmaCreate$1
+UI.PharmacySystemAdmin.PharmaCreate
